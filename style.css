@@ -1,0 +1,10 @@
+body{
+  background-color:grey;
+text-align: center;
+
+}
+#btn{
+  display: block;
+  margin:auto;
+  margin-top: 1rem;
+}
